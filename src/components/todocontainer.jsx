@@ -3,7 +3,7 @@ import Todoform from "../components/todoform.jsx"
 import { useState } from "react";
 function Todocontainer()
 {
-    const [act,setact]=useState([{id:1,activity:"go to the college"},{id:2,activity:"go to"}])
+    const [act,setact]=useState([{id:1,activity:"go to the college"}])
     
     return(
         <div className="flex gap-5 flex-wrap">
