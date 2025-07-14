@@ -1,0 +1,5 @@
+#8272DA
+#FD6663
+#FCA201
+
+<li className="my-1">{act}<button style={{}} className="border-red-600 rounded-full p-1 text-center float-right bg-red-600">{<img src={trash} width={"15px"}></img>}</button></li>
